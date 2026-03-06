@@ -4,11 +4,10 @@
 **Project for Primetrade.ai Data Science Assessment**
 
 ## 📊 Executive Dashboard
-![Executive Dashboard](reports/dashboard_screenshot.png)<img width="1456" height="839" alt="Screenshot 2026-03-06 231656" src="https://github.com/user-attachments/assets/8c49a3c8-4a12-4936-be62-ed714d39d01b" />
+<img width="1456" height="839" alt="Screenshot 2026-03-06 231656" src="https://github.com/user-attachments/assets/8c49a3c8-4a12-4936-be62-ed714d39d01b" />
 
 
-## 🚀 Project Overview![Uploading Screenshot 2026-03-06 231656.png…]()
-
+## 🚀 Project Overview!
 This project analyzes the psychological and execution patterns of Hyperliquid traders in relation to market sentiment (Fear & Greed Index). I processed over 210,000 trades to identify how "Smart Money" shifts behavior during market extremes.
 
 ## 🧠 Key Insights (Data-Backed)
